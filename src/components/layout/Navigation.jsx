@@ -75,10 +75,10 @@ export const Navigation = () => {
     return (
         <nav>
             <div className={`left_navi ${curNaviWidth ? "active" : ""}`}>
-                <a href={"/cleverOps"} className="logo"><img src={curNaviWidth ? emblem : biImage} alt="logo" /></a>
+                <NavLink to="/dashboard" className="logo"><img src={curNaviWidth ? emblem : biImage} alt="logo" /></NavLink>
                 <ul className='main_navi'>
                     <li>
-                        <a href={"/cleverOps"} id={"dashboard"}>dashboard</a>
+                        <NavLink to="/dashboard" id={"dashboard"}>dashboard</NavLink>
                     </li>
                     {leftNaviList && leftNaviList.map((item, index) => {
                         return (

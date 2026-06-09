@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import React, { useEffect, useState } from 'react'
 import "@assets/scss/dashboard.scss";
-import { SelectBox, DefaultDashboard, CustomDashboard, DashboardTab, Loading } from '@components';
+import { SelectBox, DefaultDashboard, CustomDashboard, Loading } from '@components';
 import { updateCDS, strftimeNow, strftime } from "@utils"
 import { WidgetModal } from "@components";
 import { useDispatch } from 'react-redux';
@@ -303,7 +303,7 @@ export const Dashboard = () => {
 				/>
 			}
 			<div className="dash_container">
-				<div className='custom_tab_btns'>
+				{/* <div className='custom_tab_btns'>
 					<DashboardTab tabNames={tabList}/>
 					{showSelectBox &&
 						<SelectBox
@@ -312,7 +312,7 @@ export const Dashboard = () => {
 							handleValue={handleDefaultTime}
 							label={recentTime[getDefaultStore - 1]['name']} />
 					}
-				</div>
+				</div> */}
 				<div className='tab_contents' style={{ flexWrap: tabId === 0 ? '' : 'wrap' }}>
 					{tabId === 0 ?
 						<DefaultDashboard setTimes={times} /> :

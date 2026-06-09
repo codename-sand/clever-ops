@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useInterval, ApiGet, apiPromiseGet } from "@services";
-import { embedHtml, getBokehElements, updateCDS, strftimeNow } from "@utils"
+import { embedHtml, getBokehElements, updateCDS, strftimeNow, clearBokehDocumentsByName } from "@utils"
 import { useNavigate } from "react-router-dom";
 import { Loading } from "@components";
 import { useEffect, useState } from "react";
@@ -102,10 +102,14 @@ export const BokehChart = ({ uid, chartName, graphURN, dataURN, startTime, delay
   // 순서) 1. drawBokehChart > 2-1. 정적 차트인지 확인 > 2-2. getCDS  > 3. initData > 4. polling&update
   // 1
   useEffect(() => {
+    clearBokehDocumentsByName(chartName);
     embedHtml(divId, loading);
     drawBokehChart();
     // apiPromiseGet(graphURN, drawBokehChart, navigate);
-  }, [graphURN]);
+    return () => {
+      clearBokehDocumentsByName(chartName);
+    };
+  }, [divId, graphURN, chartName, index, type]);
 
   useEffect(() => {
     if (flag > 0 && dataURN !== undefined)   // 2-1 정적 차트는 다음 단계 동작 안함

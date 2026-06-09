@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { apiPromiseGet } from "@services";
-import { embedHtml, getBokehElements, updateCDS, strftimeNow } from "@utils"
+import { embedHtml, getBokehElements, updateCDS, strftimeNow, clearBokehDocumentsByName } from "@utils"
 import { useNavigate } from "react-router-dom";
 import { Loading } from "@components";
 import { useEffect, useState } from "react";
@@ -83,10 +83,14 @@ export const TabChart = ({ uid, chartName, eventName, graphURN, newData, newEven
   // 순서) 1. drawBokehChart > 2-1. 정적 차트인지 확인 > 2-2. getCDS  > 3. initData > 4. polling&update
   // 1
   useEffect(() => {
+    clearBokehDocumentsByName([chartName, eventName]);
     embedHtml(divId, loading);
     drawBokehChart(); //bokeh dom 생성
     // apiPromiseGet(graphURN, drawBokehChart, navigate, widget_index);
-  }, [graphURN]);
+    return () => {
+      clearBokehDocumentsByName([chartName, eventName]);
+    };
+  }, [divId, graphURN, chartName, eventName, widgetIndex, tabId]);
 
   useEffect(() => {
     if (flag > 0 && newData !== undefined)   // 2-1 정적 차트는 다음 단계 동작 안함

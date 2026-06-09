@@ -16,6 +16,33 @@ export const getBokehElements = (name) => {
     return elementList;
 };
 
+export const clearBokehDocumentsByName = (names) => {
+    if (!window.Bokeh || !Array.isArray(window.Bokeh.documents)) return;
+
+    const targetNames = Array.isArray(names) ? names.filter(Boolean) : [names].filter(Boolean);
+    if (targetNames.length === 0) return;
+
+    for (const doc of window.Bokeh.documents) {
+        let hasTargetModel = false;
+
+        try {
+            for (let [, element] of doc._all_models) {
+                if (targetNames.includes(element.name)) {
+                    hasTargetModel = true;
+                    break;
+                }
+            }
+
+            if (hasTargetModel) {
+                if (typeof doc.clear === 'function') doc.clear();
+                if (typeof doc.destroy === 'function') doc.destroy();
+            }
+        } catch (e) {
+            continue;
+        }
+    }
+};
+
 export const updateCDS = (target, new_data, cmpKey) => {
     if (cmpKey in target.data) {
         // console.log('cmpKey in target.data ========> ')

@@ -46,7 +46,7 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "build:gh": "cross-env PUBLIC_URL=/cleverOps craco build",
+    "build:gh": "cross-env PUBLIC_URL=/ craco build",
     "test": "craco test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build:gh",
