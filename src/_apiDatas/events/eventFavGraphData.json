@@ -1,0 +1,15 @@
+{
+    "eventTagList": [
+        {
+            "anomaly": 0.000774622,
+            "tagname": "SIC.BLK1.1_AIT5118",
+            "id": 1
+        },
+        {
+            "anomaly": 0.0657683685,
+            "tagname": "SIC.BLK1.1_G1L86DR1",
+            "id": 2
+        }
+    ],
+    "code": 200
+}

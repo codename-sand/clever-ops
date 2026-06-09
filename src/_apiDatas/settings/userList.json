@@ -1,0 +1,23 @@
+{
+    "userList": [
+      {
+        "idname": "kwp-admin",
+        "name": "adminstrator",
+        "email": "migam2015@gmail.com",
+        "role": "admin",
+        "desc": null,
+        "alarm": "true",
+        "id": 1
+      },
+      {
+        "idname": "gildongHong",
+        "name": "홍길동",
+        "email": "gildong@ahnlab.com",
+        "role": "user",
+        "desc": "aab",
+        "alarm": "false",
+        "id": 2
+      }
+    ],
+    "code": 200
+  }

@@ -1,0 +1,29 @@
+{
+    "diskStatus": [
+      {
+        "diskname": "dbTotal",
+        "value": "100 Gi"
+      },
+      {
+        "diskname": "systemTotal",
+        "value": "50 Gi"
+      },
+      {
+        "diskname": "dbUsage",
+        "value": "16.52 Gi"
+      },
+      {
+        "diskname": "systemUsage",
+        "value": "21.03 Gi"
+      },
+      {
+        "diskname": "dbRate",
+        "value": "83.48 %"
+      },
+      {
+        "diskname": "systemRate",
+        "value": "57.94 %"
+      }
+    ],
+    "code": 200
+  }

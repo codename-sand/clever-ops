@@ -1,0 +1,21 @@
+{
+    "details": [
+      {
+        "id": 6115,
+        "modelName": "tag group #3",
+        "modelStatus": true,
+        "threshold": 0.0448718985,
+        "description": "test",
+        "tags": [
+          "SIC.BLK1.1_AIT5120A",
+          "SIC.BLK1.1_ASRL0011",
+          "SIC.BLK1.1_ASRL097",
+          "SIC.BLK1.1_BLCCPOS",
+          "SIC.BLK1.1_AUT1033",
+          "SIC.BLK1.1_HS1033.MODE"
+        ],
+        "tagCnt": 6
+      }
+    ],
+    "code": 200
+  }

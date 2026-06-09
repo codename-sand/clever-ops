@@ -1,0 +1,71 @@
+@import "common";
+
+.login{
+    background:$white url(../img/login_bg.png) no-repeat top left;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    position: fixed;
+    .left_wrap{
+        padding: 150px;
+        h2{
+            font-size: 28px;
+            margin-bottom: 20px;
+            color:$black;
+        }
+        p{
+            font-size: 16px;
+            color:#7F7F7F;
+        }
+    }
+
+    form{
+        width: 650px;
+        background: $white;
+        position: fixed;
+        right: 0;
+        height: 100%;
+        top: 0;
+        @include perfect-center;
+        @include direction;
+
+        .copyright{
+            color:$light_blue;
+            font-size: 14px;
+            width: 100%;
+            text-align: center;
+            position: fixed;
+            bottom:40px;
+        }
+        div{
+            width: 500px;
+            height: 460px;
+            @include direction;
+            padding: 80px;
+            img{
+                width: 180px;
+                height: auto;
+                margin-bottom: 60px;
+            }
+
+            input{
+                width: 350px;
+                &:first-of-type{
+                    margin-bottom: 15px;
+                }
+
+                &:last-of-type{
+                    margin-top: 60px;
+                    @include blue_btn;
+                    font-size: 16px;
+                    font-weight: 700;
+                    height: 44px;
+                    font-family: 'NotoSans' !important;
+                }
+            }
+        }
+    }
+}

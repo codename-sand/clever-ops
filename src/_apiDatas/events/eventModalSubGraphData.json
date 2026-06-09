@@ -1,0 +1,20 @@
+{
+  "eventTagList": [
+    {
+      "anomaly": 0.0851873159,
+      "tagname": "SIC.BLK1.1_HS1024A",
+      "id": 1
+    },
+    {
+      "anomaly": 0.0570592284,
+      "tagname": "SIC.BLK1.1_PI1010",
+      "id": 2
+    },
+    {
+      "anomaly": 0.0000576973,
+      "tagname": "SIC.BLK1.1_G1DRVAR",
+      "id": 3
+    }
+  ],
+  "code": 200
+}

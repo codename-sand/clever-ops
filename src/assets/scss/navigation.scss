@@ -1,0 +1,446 @@
+@import "common";
+
+nav {
+    // float: left;
+    height: 100%;
+    z-index: 10;
+    position: fixed;
+}
+
+.left_navi {
+    width: 220px;
+    height: 100%;
+    // float: left;
+    background: $white;
+    box-sizing: border-box;
+    @include direction;
+    padding: 20px 30px;
+    transition: all 200ms ease-out;
+    box-shadow: $box_shadow;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 11;
+
+    .logo {
+        width: 100%;
+        box-sizing: border-box;
+        margin-bottom: 55px;
+
+        img {
+            height: auto;
+            width: 148px;
+        }
+    }
+
+    .main_navi {
+        li {
+            width: 100%;
+            height: 20px;
+            margin-bottom: 30px;
+
+            a {
+                font-family: 'Roboto' !important;
+                @include vertical-center;
+                font-size: 16px;
+                padding-left: 30px;
+                line-height: 22px;
+
+                &.active,
+                &:hover {
+                    color: $blue
+                }
+            }
+
+            &:nth-of-type(1) {
+                a {
+                    background: url(../img/icons/dashborad.svg) no-repeat center left;
+
+                    &.active,
+                    &:hover {
+                        background: url(../img/icons/dashborad_on.svg) no-repeat center left;
+                    }
+                }
+            }
+
+            &:nth-of-type(2) {
+                a {
+                    background: url(../img/icons/tag.svg) no-repeat center left;
+
+                    &.active,
+                    &:hover {
+                        background: url(../img/icons/tag_on.svg) no-repeat center left;
+                    }
+                }
+            }
+
+            &:nth-of-type(3) {
+                a {
+                    background: url(../img/icons/event.svg) no-repeat center left;
+
+                    &.active,
+                    &:hover {
+                        background: url(../img/icons/event_on.svg) no-repeat center left;
+                    }
+                }
+            }
+
+            &:nth-of-type(4) {
+                a {
+                    background: url(../img/icons/model.svg) no-repeat center left;
+
+                    &.active,
+                    &:hover {
+                        background: url(../img/icons/model_on.svg) no-repeat center left;
+                    }
+                }
+            }
+
+        }
+    }
+
+    .setting_wrap {
+        margin-top: 55px;
+
+        p {
+            font-family: 'Roboto' !important;
+        }
+
+        .set_header {
+            @include cursor-on;
+            display: flex;
+            align-items: baseline;
+            margin-bottom: 12px;
+
+            p {
+                margin-right: 5px;
+                font-size: 14px;
+            }
+        }
+
+        ul {
+            height: 220px;
+            display: block;
+
+            li {
+                width: 100%;
+                margin-bottom: 18px;
+                height: 18px;
+
+                a {
+                    padding-left: 30px;
+                    color: #999999;
+                    font-size: 13px;
+                    height: 18px;
+                    background: url(../img/icons/setting.png)no-repeat center left;
+                    background-size: contain !important;
+                    display: block;
+                    line-height: 22px;
+
+                    &.active,
+                    &:hover {
+                        color: $blue;
+                        background: url(../img/icons/setting_on.png)no-repeat center left;
+                        background-size: contain !important;
+                    }
+                }
+            }
+
+            // &.active {
+            //     height: 220px;
+            //     display: block;
+            //     transition: all 800ms ease-out;
+            // }
+        }
+    }
+
+    // 브라우저 1250px 이하의 경우
+    &.active {
+        width: 80px;
+        transition: all 200ms ease-out;
+
+        .setting_wrap {
+            opacity: 0;
+        }
+
+        .logo {
+            @include perfect-center;
+            margin-bottom: 20px;
+
+            img {
+                width: 35px;
+                height: 35px;
+            }
+        }
+
+        .main_navi {
+            li {
+                a {
+                    color: transparent !important;
+                }
+            }
+        }
+
+        .change_navi {
+
+            margin-left: 0px;
+
+            img {
+                width: 20px;
+                height: 20px;
+                transform: scaleX(-1);
+            }
+        }
+    }
+}
+
+.top_navi {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-bottom: $table_border;
+    @include vertical-center;
+    justify-content: right;
+    background: #F5F5F5;
+    z-index: 9;
+
+    li.top_nav_list {
+        width: 50px;
+        height: 100%;
+        color: $gray;
+        @include perfect-center;
+
+        &:last-of-type {
+            width: 165px;
+
+            .user_wrap {
+                width: 100%;
+                height: 100%;
+                background: transparent;
+                @include perfect-center;
+
+
+                .profile_icon {
+                    margin-right: 7px;
+                }
+
+                .user_name {
+                    color:$gray;
+                    font-family: 'Roboto';
+                    &:hover {
+                        color: $blue;
+                    }
+                }
+            }
+        }
+
+        &.top_menu {
+            border-left: $table_border;
+
+            &:hover *,
+            &.active * {
+                @include cursor-on;
+                fill: $blue;
+            }
+
+            .top_nav_btns {
+                margin: 0;
+                padding: 0;
+                height: 19px;
+
+                &.onRed {
+                    &::after {
+                        content: url(../img/icons/topBar/red_dot.svg);
+                        position: absolute;
+                        margin: -10px 15px 0 0;
+                    }
+                }
+            }
+        }
+    }
+
+    // 상단 네비 > 알람 있는 경우
+    .alarm_container {
+        width: 300px;
+        height: auto;
+        // max-height: 828px;
+        background: $blue;
+        border-radius: 10px;
+        position: absolute;
+        top: 50px;
+        z-index: 11;
+        display: none;
+
+        &::before {
+            content: url(../img/icons/alarm/top_nav_triangle.svg);
+            position: absolute;
+            width: 14px;
+            height: 8px;
+            top: -12px;
+            left: calc(50% - 6px);
+        }
+
+        &.active {
+            display: block;
+        }
+
+        li.alarm_list {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+            color: $white;
+            width: 100%;
+            padding: 15px 20px;
+            display: flex;
+            height: auto;
+            justify-content: space-between;
+        }
+
+        li.title {
+            height: 90px;
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            padding: 30px 20px !important;
+
+            .title_left,
+            .list_left {
+                width: calc(100% - 25px);
+                display: flex;
+                justify-content: left;
+                align-items: center;
+                
+                img {
+                    width: 35px;
+                    height: 35px;
+                    margin-right: 10px;
+                }
+            }
+
+            .all_clear {
+                width: 24px;
+                height: 24px;
+                background: url(../img/icons/alarm/all_clear.svg);
+                @include cursor-on;
+            }
+        }
+
+        .list_left {
+            @include direction;
+            .alarm_title {
+                text-overflow: ellipsis;
+                overflow: hidden;
+                white-space: nowrap;
+                width: 222px;
+                margin-bottom: 8px;
+                line-height: 20px;
+                font-family: 'Roboto' !important;
+                &::before {
+                    content: attr(data-num);
+                    margin-right: 8px;
+                    width: 24px;
+                    float: left;
+                    text-align: center;
+                    border-radius: 3px;
+                    background: $white;
+                    color: $gray;
+                }
+            }
+
+            .date {
+                font-size: 13px;
+                color: $light_blue;
+                font-family: 'Roboto' !important;
+            }
+        }
+
+        .clear {
+            width: 24px;
+            height: 42px;
+            background: url(../img/icons/alarm/del.svg) no-repeat center center !important;
+            @include cursor-on;
+        }
+    }
+}
+
+.change_navi {
+    transition: all 200ms ease-out;
+    width: 50px;
+    height: 40px;
+    background: $blue;
+    border-radius: 50px 0 0 50px;
+    position: fixed;
+    bottom: 0;
+    @include perfect-center;
+    margin-left: 140px;
+
+    &:hover {
+        background: $blue_hover;
+    }
+
+    img {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.top_user_detail {
+    position: absolute;
+    width: 300px;
+    height: auto;
+    top: 50px;
+    right: 10px;
+    background: #fff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: $box_shadow;
+
+    &::before {
+        content: url(../img/icons/top_nav_triangle.svg);
+        position: absolute;
+        width: 14px;
+        height: 8px;
+        top: -12px;
+        right: 80px;
+    }
+
+    &.active {
+        display: block;
+
+    }
+
+    h3 {
+        font-size: 16px;
+        color: $black;
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+
+    p {
+        width: calc(100% - 65px);
+        height: 30px;
+        line-height: 30px;
+        margin-bottom: 5px;
+        float: left;
+        color:$gray;
+
+        &.user_id::before {
+                content: "아이디 : ";
+        }
+
+        &.user_mail::before {
+            content: "이메일 : ";
+        }
+    }
+
+    button {
+        width: 65px;
+        margin-top: 15px;
+        height: 30px !important;
+        @include blue_btn;
+
+        &:hover {
+            @include blue-button-hover;
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "modelStatus": [
+        {
+            "version": "wisc_final",
+            "reg_day": "2023-09-12 15:45:03",
+            "is_current": true
+        },
+        {
+            "version": "2023-05-30",
+            "reg_day": "2023-05-30 15:01:10",
+            "is_current": false
+        },
+        {
+            "version": "2022-12-14_11:29:58",
+            "reg_day": "2023-04-28 11:23:27",
+            "is_current": false
+        },
+        {
+            "version": "2023-01-26_20:35:22",
+            "reg_day": "2023-04-27 18:06:39",
+            "is_current": false
+        },
+        {
+            "version": "2023-04-18_17:35:37",
+            "reg_day": "2023-04-21 11:05:54",
+            "is_current": false
+        },
+        {
+            "version": "2023-03-03_14:06:58",
+            "reg_day": "2023-04-18 15:06:55",
+            "is_current": false
+        }
+    ],
+    "code": 200
+}

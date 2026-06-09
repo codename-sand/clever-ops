@@ -1,0 +1,3605 @@
+{
+    "tagList": [
+      {
+        "id": 1,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AIR1972B",
+        "equipment": null,
+        "system": null,
+        "description": "testasdfasf",
+        "like": "true",
+        "model_name": [
+          "tag group #0"
+        ]
+      },
+      {
+        "id": 2,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0201",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #0"
+        ]
+      },
+      {
+        "id": 3,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AIT5108",
+        "equipment": null,
+        "system": null,
+        "description": "test",
+        "like": "true",
+        "model_name": [
+          "tag group #1"
+        ]
+      },
+      {
+        "id": 4,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0301",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #1"
+        ]
+      },
+      {
+        "id": 5,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AIT5118",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #2"
+        ]
+      },
+      {
+        "id": 6,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1L86DR1",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #2"
+        ]
+      },
+      {
+        "id": 7,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AIT5120A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #3"
+        ]
+      },
+      {
+        "id": 8,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL0011",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #3"
+        ]
+      },
+      {
+        "id": 9,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL097",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #3"
+        ]
+      },
+      {
+        "id": 10,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_BLCCPOS",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #3"
+        ]
+      },
+      {
+        "id": 11,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1033",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #3"
+        ]
+      },
+      {
+        "id": 12,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1033.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #3"
+        ]
+      },
+      {
+        "id": 13,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AIT5128",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #4"
+        ]
+      },
+      {
+        "id": 14,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1L26GGCS",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #4"
+        ]
+      },
+      {
+        "id": 15,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0610",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 16,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL0201",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 17,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL0420",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 18,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1003",
+        "equipment": null,
+        "system": null,
+        "description": "테스트",
+        "like": "true",
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 19,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_GT1SEL1",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 20,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0379",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 21,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0611",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 22,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1120",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 23,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_SY6600B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 24,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1091B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 25,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1100",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 26,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0376",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 27,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_QIA1901",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 28,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0373",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 29,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1131",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 30,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1134",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 31,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL124A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 32,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1316",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 33,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FIC1316.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 34,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0393",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 35,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LAHH1009",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 36,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZI0379",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 37,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1171",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 38,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1171.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 39,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1009",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 40,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1070",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 41,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1114",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 42,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1963",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 43,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CAH1300",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 44,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1052",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 45,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1052.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 46,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1002",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 47,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1403.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 48,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1055",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #5"
+        ]
+      },
+      {
+        "id": 49,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1003A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #6"
+        ]
+      },
+      {
+        "id": 50,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1023A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #6"
+        ]
+      },
+      {
+        "id": 51,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1015",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #7"
+        ]
+      },
+      {
+        "id": 52,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL101",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #7"
+        ]
+      },
+      {
+        "id": 53,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PCV1090",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #7"
+        ]
+      },
+      {
+        "id": 54,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1120.SP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #7"
+        ]
+      },
+      {
+        "id": 55,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LALL1140",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #8"
+        ]
+      },
+      {
+        "id": 56,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1010",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #8"
+        ]
+      },
+      {
+        "id": 57,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PDI1140",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #8"
+        ]
+      },
+      {
+        "id": 58,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0387",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 59,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1023",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 60,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1022",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 61,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1022.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 62,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1056",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 63,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1056.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 64,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1055",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 65,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL6048",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 66,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1002",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 67,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1002.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #9"
+        ]
+      },
+      {
+        "id": 68,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1024",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #10"
+        ]
+      },
+      {
+        "id": 69,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1024",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #10"
+        ]
+      },
+      {
+        "id": 70,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1DRVAR",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #10"
+        ]
+      },
+      {
+        "id": 71,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1024A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": "true",
+        "model_name": [
+          "tag group #10"
+        ]
+      },
+      {
+        "id": 72,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PI1010",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #10"
+        ]
+      },
+      {
+        "id": 73,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1071",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #11"
+        ]
+      },
+      {
+        "id": 74,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1550",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #11"
+        ]
+      },
+      {
+        "id": 75,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1199",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #11"
+        ]
+      },
+      {
+        "id": 76,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1TCES",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #11"
+        ]
+      },
+      {
+        "id": 77,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1210",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #12"
+        ]
+      },
+      {
+        "id": 78,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1090A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #12"
+        ]
+      },
+      {
+        "id": 79,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_TI6520",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #12"
+        ]
+      },
+      {
+        "id": 80,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1091A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #13"
+        ]
+      },
+      {
+        "id": 81,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_TIC1091.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #13"
+        ]
+      },
+      {
+        "id": 82,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0302H",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #13"
+        ]
+      },
+      {
+        "id": 83,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0612",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #13"
+        ]
+      },
+      {
+        "id": 84,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1100B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #14"
+        ]
+      },
+      {
+        "id": 85,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1100.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #14"
+        ]
+      },
+      {
+        "id": 86,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1120B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #15"
+        ]
+      },
+      {
+        "id": 87,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1120.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #15"
+        ]
+      },
+      {
+        "id": 88,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1120D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #16"
+        ]
+      },
+      {
+        "id": 89,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LAL1120",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #16"
+        ]
+      },
+      {
+        "id": 90,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1132",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #17"
+        ]
+      },
+      {
+        "id": 91,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PI1133",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #17"
+        ]
+      },
+      {
+        "id": 92,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1131B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #17"
+        ]
+      },
+      {
+        "id": 93,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PIC1135",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #17"
+        ]
+      },
+      {
+        "id": 94,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PIC1134",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #17"
+        ]
+      },
+      {
+        "id": 95,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1140A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #18"
+        ]
+      },
+      {
+        "id": 96,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1140.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #18"
+        ]
+      },
+      {
+        "id": 97,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1140C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #19"
+        ]
+      },
+      {
+        "id": 98,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LAL1140",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #19"
+        ]
+      },
+      {
+        "id": 99,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1200",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #20"
+        ]
+      },
+      {
+        "id": 100,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_VIY6515",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #20"
+        ]
+      },
+      {
+        "id": 101,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1301",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #21"
+        ]
+      },
+      {
+        "id": 102,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1301.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #21"
+        ]
+      },
+      {
+        "id": 103,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1311",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #22"
+        ]
+      },
+      {
+        "id": 104,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FAL1316",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #22"
+        ]
+      },
+      {
+        "id": 105,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FALL1316",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #22"
+        ]
+      },
+      {
+        "id": 106,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PI1313",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #22"
+        ]
+      },
+      {
+        "id": 107,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZIC1210",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #23"
+        ]
+      },
+      {
+        "id": 108,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1411",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #23"
+        ]
+      },
+      {
+        "id": 109,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PI1091",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #23"
+        ]
+      },
+      {
+        "id": 110,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1550",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #24"
+        ]
+      },
+      {
+        "id": 111,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LI1550",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #24"
+        ]
+      },
+      {
+        "id": 112,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1L30D_RS",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #25"
+        ]
+      },
+      {
+        "id": 113,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1900",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #25"
+        ]
+      },
+      {
+        "id": 114,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1L14HT",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #25"
+        ]
+      },
+      {
+        "id": 115,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PI1994",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #25"
+        ]
+      },
+      {
+        "id": 116,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1971",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #26"
+        ]
+      },
+      {
+        "id": 117,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL5181",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #26"
+        ]
+      },
+      {
+        "id": 118,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASSL1100",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #27"
+        ]
+      },
+      {
+        "id": 119,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZI1100A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #27"
+        ]
+      },
+      {
+        "id": 120,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1007",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #28"
+        ]
+      },
+      {
+        "id": 121,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1007.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #28"
+        ]
+      },
+      {
+        "id": 122,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1009",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #29"
+        ]
+      },
+      {
+        "id": 123,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1009.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #29"
+        ]
+      },
+      {
+        "id": 124,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1064",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #29"
+        ]
+      },
+      {
+        "id": 125,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1019",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #30"
+        ]
+      },
+      {
+        "id": 126,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1019.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #30"
+        ]
+      },
+      {
+        "id": 127,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZIC1019",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #30"
+        ]
+      },
+      {
+        "id": 128,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1016",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #30"
+        ]
+      },
+      {
+        "id": 129,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1016.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #30"
+        ]
+      },
+      {
+        "id": 130,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1030",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #31"
+        ]
+      },
+      {
+        "id": 131,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1030.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #31"
+        ]
+      },
+      {
+        "id": 132,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1585",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #32"
+        ]
+      },
+      {
+        "id": 133,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1031",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #32"
+        ]
+      },
+      {
+        "id": 134,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1031.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #32"
+        ]
+      },
+      {
+        "id": 135,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1035",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #33"
+        ]
+      },
+      {
+        "id": 136,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1035.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #33"
+        ]
+      },
+      {
+        "id": 137,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1036",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #34"
+        ]
+      },
+      {
+        "id": 138,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1036.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #34"
+        ]
+      },
+      {
+        "id": 139,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZIC1036",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #34"
+        ]
+      },
+      {
+        "id": 140,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1081.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 141,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1040",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 142,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1081",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 143,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1082",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 144,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1040.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 145,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1082.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 146,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZI0373",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 147,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1042",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 148,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1046",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 149,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1042.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 150,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1046.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 151,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ASRL1104",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 152,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1MSG_FLD1",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #35"
+        ]
+      },
+      {
+        "id": 153,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1060",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #36"
+        ]
+      },
+      {
+        "id": 154,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1060.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #36"
+        ]
+      },
+      {
+        "id": 155,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1061",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #37"
+        ]
+      },
+      {
+        "id": 156,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1061.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #37"
+        ]
+      },
+      {
+        "id": 157,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0605",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #38"
+        ]
+      },
+      {
+        "id": 158,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1063",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #38"
+        ]
+      },
+      {
+        "id": 159,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1063.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #38"
+        ]
+      },
+      {
+        "id": 160,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1064",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #39"
+        ]
+      },
+      {
+        "id": 161,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1064.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #39"
+        ]
+      },
+      {
+        "id": 162,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1066",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #40"
+        ]
+      },
+      {
+        "id": 163,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1066.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #40"
+        ]
+      },
+      {
+        "id": 164,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZI0393",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #40"
+        ]
+      },
+      {
+        "id": 165,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1068",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #41"
+        ]
+      },
+      {
+        "id": 166,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1067",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #41"
+        ]
+      },
+      {
+        "id": 167,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1067.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #41"
+        ]
+      },
+      {
+        "id": 168,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIT5035",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #41"
+        ]
+      },
+      {
+        "id": 169,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1068.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #41"
+        ]
+      },
+      {
+        "id": 170,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1404",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #41"
+        ]
+      },
+      {
+        "id": 171,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1106",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #42"
+        ]
+      },
+      {
+        "id": 172,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1106.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #42"
+        ]
+      },
+      {
+        "id": 173,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1147",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #43"
+        ]
+      },
+      {
+        "id": 174,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1150",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #43"
+        ]
+      },
+      {
+        "id": 175,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1150.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #43"
+        ]
+      },
+      {
+        "id": 176,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1152",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #43"
+        ]
+      },
+      {
+        "id": 177,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1152.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #43"
+        ]
+      },
+      {
+        "id": 178,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1160",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #44"
+        ]
+      },
+      {
+        "id": 179,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1160.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #44"
+        ]
+      },
+      {
+        "id": 180,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1161",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #45"
+        ]
+      },
+      {
+        "id": 181,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1161.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #45"
+        ]
+      },
+      {
+        "id": 182,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1035",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #45"
+        ]
+      },
+      {
+        "id": 183,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1170.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #46"
+        ]
+      },
+      {
+        "id": 184,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1170",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #46"
+        ]
+      },
+      {
+        "id": 185,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZIC1170",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #46"
+        ]
+      },
+      {
+        "id": 186,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1172",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #46"
+        ]
+      },
+      {
+        "id": 187,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1172.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #46"
+        ]
+      },
+      {
+        "id": 188,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_AUT1585",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #47"
+        ]
+      },
+      {
+        "id": 189,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD1056",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #47"
+        ]
+      },
+      {
+        "id": 190,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CIA1300C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #48"
+        ]
+      },
+      {
+        "id": 191,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HSAS1591",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #48"
+        ]
+      },
+      {
+        "id": 192,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CIA1300D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #49"
+        ]
+      },
+      {
+        "id": 193,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CIR1300",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #49"
+        ]
+      },
+      {
+        "id": 194,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CIR1563A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #50"
+        ]
+      },
+      {
+        "id": 195,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CIT1563A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #50"
+        ]
+      },
+      {
+        "id": 196,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_CIT1564A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #51"
+        ]
+      },
+      {
+        "id": 197,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0311",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #51"
+        ]
+      },
+      {
+        "id": 198,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EDAH6923",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #52"
+        ]
+      },
+      {
+        "id": 199,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FIT5109",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #52"
+        ]
+      },
+      {
+        "id": 200,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EI6569",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #53"
+        ]
+      },
+      {
+        "id": 201,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FAL1131",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #53"
+        ]
+      },
+      {
+        "id": 202,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZIO1138",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #53"
+        ]
+      },
+      {
+        "id": 203,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EI6573A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #54"
+        ]
+      },
+      {
+        "id": 204,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI6608A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #54"
+        ]
+      },
+      {
+        "id": 205,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE002D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #55"
+        ]
+      },
+      {
+        "id": 206,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE003C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #55"
+        ]
+      },
+      {
+        "id": 207,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE011D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #56"
+        ]
+      },
+      {
+        "id": 208,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE013C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #56"
+        ]
+      },
+      {
+        "id": 209,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE106E",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #57"
+        ]
+      },
+      {
+        "id": 210,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE106D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #57"
+        ]
+      },
+      {
+        "id": 211,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE001D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #57"
+        ]
+      },
+      {
+        "id": 212,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_IIE511A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #58"
+        ]
+      },
+      {
+        "id": 213,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE511C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #58"
+        ]
+      },
+      {
+        "id": 214,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0303A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #58"
+        ]
+      },
+      {
+        "id": 215,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0302M",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #58"
+        ]
+      },
+      {
+        "id": 216,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_EIE512",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #59"
+        ]
+      },
+      {
+        "id": 217,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZIE502",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #59"
+        ]
+      },
+      {
+        "id": 218,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FAH1130",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #60"
+        ]
+      },
+      {
+        "id": 219,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_JYL0921",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #60"
+        ]
+      },
+      {
+        "id": 220,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FAL0303C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #61"
+        ]
+      },
+      {
+        "id": 221,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FALL0303D",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #61"
+        ]
+      },
+      {
+        "id": 222,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0303B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #61"
+        ]
+      },
+      {
+        "id": 223,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_II0306",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #61"
+        ]
+      },
+      {
+        "id": 224,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FALL0303F",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #62"
+        ]
+      },
+      {
+        "id": 225,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA0303C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #62"
+        ]
+      },
+      {
+        "id": 226,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FALL1132",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #63"
+        ]
+      },
+      {
+        "id": 227,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1140.SP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #63"
+        ]
+      },
+      {
+        "id": 228,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI1052",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #64"
+        ]
+      },
+      {
+        "id": 229,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XO1052",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #64"
+        ]
+      },
+      {
+        "id": 230,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI1070",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #65"
+        ]
+      },
+      {
+        "id": 231,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XO1070",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #65"
+        ]
+      },
+      {
+        "id": 232,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI1100",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #66"
+        ]
+      },
+      {
+        "id": 233,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XO1100",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #66"
+        ]
+      },
+      {
+        "id": 234,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_XA1182",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #67"
+        ]
+      },
+      {
+        "id": 235,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI1120",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #67"
+        ]
+      },
+      {
+        "id": 236,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1120_OUT",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #67"
+        ]
+      },
+      {
+        "id": 237,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI1140",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #68"
+        ]
+      },
+      {
+        "id": 238,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PAL6913",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #68"
+        ]
+      },
+      {
+        "id": 239,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI1301",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #69"
+        ]
+      },
+      {
+        "id": 240,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LIC1301_OUT",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #69"
+        ]
+      },
+      {
+        "id": 241,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI6602",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #70"
+        ]
+      },
+      {
+        "id": 242,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PAL6911",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #70"
+        ]
+      },
+      {
+        "id": 243,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_TI1082",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #70"
+        ]
+      },
+      {
+        "id": 244,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_TI1081",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #70"
+        ]
+      },
+      {
+        "id": 245,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FAL0385A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 246,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_FI6604",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 247,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6543A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 248,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6543B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 249,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6600A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 250,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6601C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 251,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6603A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 252,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_PI6601E",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 253,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_TI0061",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 254,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_ZD0386A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 255,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1L33FL1C",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 256,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1L84TG",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 257,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1TCCS",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 258,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_G1TFT_TCNT",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 259,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS0014",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 260,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS0061",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 261,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1070.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 262,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1091",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 263,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1100B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 264,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1114.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 265,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1120",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 266,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1120A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 267,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1134",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 268,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1135",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 269,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1140A",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 270,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1147.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 271,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1213",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 272,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1219",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 273,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1901N",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 274,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1901T",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 275,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1963INT1_2.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 276,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS1963OPCL.MODE",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 277,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6125",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 278,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HS6601B",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 279,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HSA6551",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 280,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HSAS1592",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 281,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HSAS5181",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 282,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_HSP1901",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 283,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LAHH1550",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 284,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_LAL0035",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 285,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P01M04_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 286,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P01M06_AMM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 287,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P02M06_AMM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 288,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P03M02_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 289,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P03M04_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 290,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P04M04_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 291,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P04M06_AMM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 292,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P05M02_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 293,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P05M04_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 294,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P05M06_AMM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 295,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P06M04_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 296,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P06M06_AMM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 297,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P07M02_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 298,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P07M04_MFP",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 299,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P07M06_AMM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      },
+      {
+        "id": 300,
+        "version": "2023-05-30",
+        "name": "SIC.BLK1.1_P08M00_NPM",
+        "equipment": null,
+        "system": null,
+        "description": null,
+        "like": null,
+        "model_name": [
+          "tag group #71"
+        ]
+      }
+    ],
+    "code": 200
+  }

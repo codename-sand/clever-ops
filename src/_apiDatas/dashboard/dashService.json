@@ -1,0 +1,34 @@
+{
+    "Machine learning" : [
+        {
+            "key": "Anomaly Detector",
+            "value": "Started"
+        },
+        {
+            "key": "Rule Detector",
+            "value": "Started"
+        }
+    ],
+    "Status of Service" : [
+        {
+            "key": "Agent",
+            "value": "Started"
+        },
+        {
+            "key": "Alert System",
+            "value": "Started"
+        },
+        {
+            "key": "API Server",
+            "value": "Started"
+        },
+        {
+            "key": "Message Broker",
+            "value": "Started"
+        },
+        {
+            "key": "OPC DA",
+            "value": "Started"
+        }
+    ]
+}

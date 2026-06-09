@@ -1,0 +1,206 @@
+{
+    "widgetList": {
+        "tabDetail": [
+            {
+                "id": 131,
+                "tab_id": 1,
+                "row": 1,
+                "col": 1,
+                "span": 1,
+                "title": "t1",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_AIT1563B",
+                "chart_kind": "line"
+            },
+            {
+                "id": 132,
+                "tab_id": 1,
+                "row": 2,
+                "col": 1,
+                "span": 1,
+                "title": "t2",
+                "type": "model",
+                "filter": "tag group #376",
+                "chart_kind": "line"
+            },
+            {
+                "id": 133,
+                "tab_id": 1,
+                "row": 3,
+                "col": 1,
+                "span": 1,
+                "title": "t3",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_AIT5128",
+                "chart_kind": "line"
+            },
+            {
+                "id": 134,
+                "tab_id": 1,
+                "row": 4,
+                "col": 1,
+                "span": 1,
+                "title": "t4",
+                "type": "model",
+                "filter": "tag group #97",
+                "chart_kind": "line"
+            },
+            {
+                "id": 144,
+                "tab_id": 1,
+                "row": 5,
+                "col": 1,
+                "span": 1,
+                "title": "t5",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_ZD6481",
+                "chart_kind": "line"
+            },
+            {
+                "id": 151,
+                "tab_id": 1,
+                "row": 6,
+                "col": 1,
+                "span": 1,
+                "title": "t6",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_AUT1066",
+                "chart_kind": "line"
+            },
+            {
+                "id": 152,
+                "tab_id": 1,
+                "row": 7,
+                "col": 1,
+                "span": 3,
+                "title": "t7",
+                "type": "model",
+                "filter": "tag group #76",
+                "chart_kind": "line"
+            },
+            {
+                "id": 153,
+                "tab_id": 1,
+                "row": 8,
+                "col": 1,
+                "span": 3,
+                "title": "t8",
+                "type": "model",
+                "filter": "SIC.BLK1.1_G1L86FV",
+                "chart_kind": "line"
+            },
+            {
+                "id": 155,
+                "tab_id": 1,
+                "row": 9,
+                "col": 1,
+                "span": 3,
+                "title": "t10",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_AUT1103",
+                "chart_kind": "line"
+            },
+            {
+                "id": 154,
+                "tab_id": 1,
+                "row": 10,
+                "col": 1,
+                "span": 3,
+                "title": "t9",
+                "type": "model",
+                "filter": "SIC.BLK1.1_FI6606B",
+                "chart_kind": "line"
+            },
+            {
+                "id": 156,
+                "tab_id": 1,
+                "row": 11,
+                "col": 1,
+                "span": 2,
+                "title": "t11",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_XA1113",
+                "chart_kind": "line"
+            },
+            {
+                "id": 165,
+                "tab_id": 1,
+                "row": 12,
+                "col": 1,
+                "span": 1,
+                "title": "12",
+                "type": "model",
+                "filter": "SIC.BLK1.1_AIT5121A",
+                "chart_kind": "line"
+            },
+            {
+                "id": 158,
+                "tab_id": 2,
+                "row": 1,
+                "col": 1,
+                "span": 1,
+                "title": "위젯1",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_AIT5121B",
+                "chart_kind": "line"
+            },
+            {
+                "id": 159,
+                "tab_id": 2,
+                "row": 2,
+                "col": 1,
+                "span": 2,
+                "title": "위젯2",
+                "type": "model",
+                "filter": "SIC.BLK1.1_FI6606B",
+                "chart_kind": "line"
+            },
+            {
+                "id": 161,
+                "tab_id": 2,
+                "row": 3,
+                "col": 1,
+                "span": 1,
+                "title": "위젯4",
+                "type": "model",
+                "filter": "SIC.BLK1.1_G1L26QN",
+                "chart_kind": "line"
+            },
+            {
+                "id": 160,
+                "tab_id": 2,
+                "row": 4,
+                "col": 1,
+                "span": 1,
+                "title": "위젯3",
+                "type": "tag",
+                "filter": "SIC.BLK1.1_ZIR6021",
+                "chart_kind": "line"
+            },
+            {
+                "id": 162,
+                "tab_id": 2,
+                "row": 5,
+                "col": 1,
+                "span": 1,
+                "title": "위젯5",
+                "type": "model",
+                "filter": "tag group #338",
+                "chart_kind": "line"
+            },
+            {
+                "id": 163,
+                "tab_id": 3,
+                "row": 1,
+                "col": 1,
+                "span": 3,
+                "title": "Tag group #201 이벤트 관리",
+                "type": "model",
+                "filter": "tag group #201",
+                "chart_kind": "line"
+              }
+          
+        ],
+        "code": 200
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "histories": [
+      {
+        "daytime": "2023-06-28 13:34:21",
+        "content": "threshold 업데이트: 0.032306833658367395 -> 0.04487189854631045",
+        "manager": "adminstrator",
+        "id": 0
+      },
+      {
+        "daytime": "2023-06-20 13:24:47",
+        "content": "사용설정: off -> on",
+        "manager": "adminstrator",
+        "id": 1
+      },
+      {
+        "daytime": "2023-06-20 13:24:43",
+        "content": "사용설정: on -> off",
+        "manager": "adminstrator",
+        "id": 2
+      },
+      {
+        "daytime": "2023-06-20 13:24:24",
+        "content": "설명: None -> test",
+        "manager": "adminstrator",
+        "id": 3
+      }
+    ],
+    "code": 200
+  }

@@ -1,0 +1,21 @@
+{
+    "mailInfo": [
+        {
+            "key": "ip",
+            "value": "aa"
+        },
+        {
+            "key": "port",
+            "value": "aa"
+        },
+        {
+            "key": "email",
+            "value": "aa@aa.com"
+        },
+        {
+            "key": "password",
+            "value": "aa"
+        }
+    ],
+    "code": 200
+}

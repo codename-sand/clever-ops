@@ -1,0 +1,26 @@
+@import "common";
+
+.evt_table {
+    p {
+        &:nth-of-type(1) {
+            width: 320px !important;
+            text-align: center;
+        }
+
+        &:nth-of-type(2) {
+            width: 130px !important;
+        }
+
+        &:nth-of-type(3) {
+            width: 360px !important;
+        }
+        &:nth-of-type(4) {
+            width: 770px !important;
+        }
+        &.date{
+            font-family: 'Roboto' !important;
+        }
+
+    }
+
+}
